@@ -1,4 +1,4 @@
-Some simple automation scripts in bash that I use.
+Some very simple automation scripts in bash that I use.
 
 # Installation
 Clone the repo:
