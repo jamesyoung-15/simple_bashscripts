@@ -1,7 +1,14 @@
 Some simple automation scripts in bash that I use.
 
 # Installation
-Clone the repo, then cd into folder.
+Clone the repo:
+```
+git clone https://github.com/jamesyoung-15/simple_bashscripts
+```
+Then cd into folder:
+```
+cd /simple_bashscripts
+```
 
 # HEIC Convert
 #### Sciprt finds any files ending with .heic and converts it to jpg and renames file to end with .jpg
